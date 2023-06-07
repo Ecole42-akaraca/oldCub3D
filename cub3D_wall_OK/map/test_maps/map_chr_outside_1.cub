@@ -1,0 +1,13 @@
+NO ./textures/pika.xpm
+SO ./textures/greystone.xpm
+WE ./textures/purplestone.xpm
+EA ./textures/red.xpm
+
+F 86,125,70
+C 132,106,235
+
+11111N
+110101
+101001
+110001
+111111
